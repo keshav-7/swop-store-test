@@ -92,3 +92,12 @@ The integration pattern leverages two virtual hosts:
 
 4. **Enhanced Customization Parameters:**  
    Expanding the query parameters to control additional visual elements (for example, borders, margins, or even animation effects) could provide third-party websites with greater control over the appearance and behavior of the banner.
+
+**Screenshots:**
+--
+
+![alt text](image.png)   
+
+--
+
+![alt text](image-1.png)
